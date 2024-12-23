@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+/Users/Frani/Documents/UNIR/RS/.metadata/.plugins/org.eclipse.jdt.core
+4127701281.index
+239067044.index
+2717949834.index
+4143932765.index
+1865797976.index
